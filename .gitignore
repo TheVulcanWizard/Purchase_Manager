@@ -1,0 +1,14 @@
+
+Credentials/*
+!Credentials/credentials.txt
+
+Test/
+
+Transcribed Pages/
+!Transcribed Pages/transcribed_pages.txt
+
+Input Docs/*
+!Input Docs/input.txt
+
+__pycache__/
+*.py[cod]
